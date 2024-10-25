@@ -1,4 +1,4 @@
-Hello there 👋, I'm Awais But
+Hello there 👋, I'm Awais
 
 ### Software/DevOps/Cloud Engineer
 
