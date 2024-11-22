@@ -11,11 +11,7 @@ Hello there 👋, I'm Awais
 
 
 <table>
-    <tr>
-        <th>My Blog</th>
-        <th>My Website</th>
-        <th>My CV</th>
-    </tr>
+
     <tr>
         <td>
             <a href="https://colin-but.medium.com/"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/></a>
