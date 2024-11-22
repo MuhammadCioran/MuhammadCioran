@@ -10,22 +10,6 @@ Hello there 👋, I'm Awais
 <br/>
 
 
-<table>
-
-    <tr>
-        <td>
-            <a href="https://colin-but.medium.com/"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/></a>
-        </td>
-        <td>
-            <a href="https://colinbut.github.io/">🌐</a>
-        </td>
-        <td>
-            <a href="https://colinbut.github.io/online-resume">📃</a>
-        </td>
-    </tr>
-</table>
-
-
 
 
 
